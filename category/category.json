@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Test",
+    "patch": "test"
+  },
+  {
+    "name": "Рок",
+    "patch": "rock"
+  },
+  {
+    "name": "Джаз",
+    "patch": "jazz"
+  },
+  {
+    "name": "Класика",
+    "patch": "classic"
+  }
+]
