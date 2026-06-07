@@ -1,26 +1,26 @@
 [
   {
-    "name": "Рок",
-    "patch": "rock.json"
-  },
-  {
-    "name": "Класика",
-    "patch": "classic.json"
-  },
-  {
-    "name": "Джаз",
-    "patch": "jazz.json"
-  },
-  {
-    "name": "Phonk",
-    "patch": "phonk.json"
+    "name": "Test",
+    "patch": "test.json"
   },
   {
     "name": "POP",
     "patch": "pop.json"
   },
   {
-    "name": "Test",
-    "patch": "test.json"
+    "name": "Phonk",
+    "patch": "phonk.json"
+  },
+  {
+    "name": "Рок",
+    "patch": "rock.json"
+  },
+  {
+    "name": "Джаз",
+    "patch": "jazz.json"
+  },
+  {
+    "name": "Класика",
+    "patch": "classic.json"
   }
 ]
