@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "MONTAGEM COMA",
+    "author": "Andromeda",
+    "img": "https://raw.githubusercontent.com/musico-server/files/refs/heads/main/images/e0LQFzlkbO1xKxT.png",
+    "audio": "https://raw.githubusercontent.com/musico-server/files/refs/heads/main/audio/e0LQFzlkbO1xKxT.opus",
+    "id": "e0LQFzlkbO1xKxT"
+  }
+]
