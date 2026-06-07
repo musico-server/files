@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "1",
+    "author": "1",
+    "img": "https://raw.githubusercontent.com/musico-server/files/refs/heads/main/images/Z6UXZ6W8eY5Gfhf.png",
+    "audio": "https://raw.githubusercontent.com/musico-server/files/refs/heads/main/audio/Z6UXZ6W8eY5Gfhf.opus",
+    "id": "Z6UXZ6W8eY5Gfhf"
+  }
+]
