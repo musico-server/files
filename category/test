@@ -5,12 +5,5 @@
     "img": "https://raw.githubusercontent.com/musico-server/files/refs/heads/main/images/XL7yDH32JDN4say.png",
     "audio": "https://raw.githubusercontent.com/musico-server/files/refs/heads/main/audio/XL7yDH32JDN4say.opus",
     "id": "XL7yDH32JDN4say"
-  },
-  {
-    "name": "1",
-    "author": "1",
-    "img": "https://raw.githubusercontent.com/musico-server/files/refs/heads/main/images/TR5maS2Cbip2bWz.png",
-    "audio": "https://raw.githubusercontent.com/musico-server/files/refs/heads/main/audio/TR5maS2Cbip2bWz.opus",
-    "id": "TR5maS2Cbip2bWz"
   }
 ]
