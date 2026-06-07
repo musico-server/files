@@ -1,9 +1,5 @@
 [
   {
-    "name": "Test",
-    "patch": "test.json"
-  },
-  {
     "name": "Рок",
     "patch": "rock.json"
   },
@@ -22,5 +18,9 @@
   {
     "name": "POP",
     "patch": "pop.json"
+  },
+  {
+    "name": "Test",
+    "patch": "test.json"
   }
 ]
