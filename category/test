@@ -2,6 +2,13 @@
   {
     "name": "1",
     "author": "1",
+    "img": "https://raw.githubusercontent.com/musico-server/files/refs/heads/main/images/XL7yDH32JDN4say.png",
+    "audio": "https://raw.githubusercontent.com/musico-server/files/refs/heads/main/audio/XL7yDH32JDN4say.opus",
+    "id": "XL7yDH32JDN4say"
+  },
+  {
+    "name": "1",
+    "author": "1",
     "img": "K8RDPTaVgYeJj2q.png",
     "audio": "K8RDPTaVgYeJj2q.opus",
     "id": "K8RDPTaVgYeJj2q"
