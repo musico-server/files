@@ -4,6 +4,10 @@
     "patch": "test.json"
   },
   {
+    "name": "Test 2",
+    "patch": "test2.json"
+  },
+  {
     "name": "POP",
     "patch": "pop.json"
   },
