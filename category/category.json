@@ -18,9 +18,5 @@
   {
     "name": "Джаз",
     "patch": "jazz.json"
-  },
-  {
-    "name": "Класика",
-    "patch": "classic.json"
   }
 ]
